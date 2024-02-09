@@ -74,6 +74,9 @@
     <Folder Include="App_Config\Include\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Config\z.Custom.Fallback.Settings.config" />
+  </ItemGroup>
+  <ItemGroup>
     <Content Include="App_Data\**" />
 </ItemGroup>
   <PropertyGroup>
